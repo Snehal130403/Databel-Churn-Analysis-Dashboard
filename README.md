@@ -39,4 +39,4 @@ Enhance customer experience and engagement
 Reduce churn rate and increase customer retention
 Support strategic, data-driven business decisions
 # 6. Screenshots / Demos
-
+![Dashboard Preview].(https://github.com/Snehal130403/Databel-Churn-Analysis-Dashboard/blob/main/Databel%20Churn%20Analysis.png)
